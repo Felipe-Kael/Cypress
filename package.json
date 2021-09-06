@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Curso de Cypress Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "eZe"
+  ],
+  "author": "Felipe Oliveira",
+  "license": "MIT"
+}
